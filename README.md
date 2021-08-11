@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning.
-- 💬 Ask me about Telegram Bot
-- 📫 How to reach me: [Telegram](https://t.me/tth_kiya98)
+- 🌱 Saya bagian translate Indonesia language.
+- 💬 Beritahu saya tentang bot telegram
+- 📫 Bagaimana cara menghubungi? : [Telegram](https://t.me/tth_kiya98)
 
 ### My Stats
 ![The-Terminal's github stats](https://github-readme-stats.vercel.app/api?username=EmiliaTzy&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800)
@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=EmiliaTzy&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/EmiliaTzy)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=EmiliaTzy)
-# My Stuffs:-
+# Peralatanku:-
 
 - Student
+- wife house
 - Visual Studio Code ++
 - Telegram 
