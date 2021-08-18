@@ -17,4 +17,12 @@ Here are some ideas to get you started:
 - Student
 - wife house
 - Visual Studio Code ++
-- Telegram 
+- Telegram
+
+## My Social Media and Personal Website
+<p>
+    <a href="https://facebook.com/pwn.id" target="blank"><img src="https://img.icons8.com/nolan/80/facebook-new.png" /></a>
+    <a href="https://t.me/tth_kiya98" target="blank"><img src="https://img.icons8.com/nolan/80/telegram-app.png" /></a>
+    <a href="https://instagram.com/tth_kiya98" target="blank"><img src="https://img.icons8.com/nolan/80/instagram-new.png" /></a>
+    <a href="https://twitter.com/azkiyabellaramadhan" target="blank"><img src="https://img.icons8.com/nolan/80/twitter.png" /></a>
+</p>
